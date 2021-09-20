@@ -1,4 +1,4 @@
-## Shortest Job First- Non Preemptive
+#Shortest Job First- Non Preemptive
 
 def sortAt(n, array):
     for i in range(0, n):
