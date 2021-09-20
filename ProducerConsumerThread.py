@@ -1,5 +1,5 @@
 # Producer Consumer using Threads
-# Imports
+
 import random
 import threading
 import multiprocessing
