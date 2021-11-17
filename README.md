@@ -9,9 +9,10 @@ Operating System Programs Repository
 8. Non-Preemptive Priority Scheduling
 9. Producer Consumer using Semaphores (without threads)
 10. Producer Consumer using Threads
-11. First Fit Allocation 
-12. Best Fit Allocation
-13. Worst Fit Allocation
-14. Disk Scheduling- First Come First Serve (FCFS)
-15. Disk Scheduling- Shortest Seek Time First (SSTF)
-16. 
+11. Banker's Algorithm for Deadlock Avoidance
+12. First Fit Allocation 
+13. Best Fit Allocation
+14. Worst Fit Allocation
+15. Disk Scheduling- First Come First Serve (FCFS)
+16. Disk Scheduling- Shortest Seek Time First (SSTF)
+17. 
