@@ -12,3 +12,6 @@ Operating System Programs Repository
 11. First Fit Allocation 
 12. Best Fit Allocation
 13. Worst Fit Allocation
+14. Disk Scheduling- First Come First Serve (FCFS)
+15. Disk Scheduling- Shortest Seek Time First (SSTF)
+16. 
