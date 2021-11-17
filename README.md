@@ -15,5 +15,6 @@ Operating System Programs Repository
 14. Worst Fit Allocation
 15. Disk Scheduling- First Come First Serve (FCFS)
 16. Disk Scheduling- Shortest Seek Time First (SSTF)
-17. Demand Paging- FIFO
-18. Demand Paging- LRU
+17. Disk Scheduling- SCAN
+18. Demand Paging- FIFO
+19. Demand Paging- LRU
